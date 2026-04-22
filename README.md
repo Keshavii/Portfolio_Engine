@@ -1,4 +1,4 @@
-# 📊 Trackfolio Backend
+# Trackfolio Backend
 
 A high-performance backend server for **Trackfolio** – a portfolio analytics and risk management app tailored for retail investors and quant enthusiasts.
 
